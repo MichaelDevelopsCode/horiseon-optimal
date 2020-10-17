@@ -10,7 +10,8 @@ This is a refactoring of code displaying a Marketing Agency site. This aims to m
 ​Visit the website through github here ​
 ​
 ## Screenshots 
-​ 
+​ ![webpage](./Develop/assets/images/screenshot.png)
+
 ​
 ​
 ## Credits
