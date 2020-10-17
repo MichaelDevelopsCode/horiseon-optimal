@@ -7,10 +7,10 @@ This is a refactoring of code displaying a Marketing Agency site. This aims to m
 ​
 ## Installation
 
-​Visit the website through github here ​
+​Visit the live website through github ![here](​https://michaeldevelopscode.github.io/horiseon-optimal-refactor/)
 ​
 ## Screenshots 
-​ ![webpage](./Develop/assets/images/screenshot.png)
+​ ![Webpage Screenshot](./assets/images/screenshot.png)
 
 ​
 ​
